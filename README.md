@@ -16,4 +16,4 @@
   - `poetry run python -m weather`
 
 **Додаткова інформація**:
-    - API OpenWeatherMap: https://openweathermap.org/api
+  - API OpenWeatherMap: https://openweathermap.org/api
